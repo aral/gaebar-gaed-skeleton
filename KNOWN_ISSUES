@@ -1,0 +1,6 @@
+Known Issues with the Google App Engine Helper for Django
+=========================================================
+
+There are no major known issues with the helper at this time. See the issue
+tracker at http://code.google.com/p/google-app-engine-django/issues/list for
+up to date information on bugs and feature requests.

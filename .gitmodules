@@ -1,0 +1,3 @@
+[submodule "gaebar"]
+	path = gaebar
+	url = git@github.com:aral/gaebar.git
